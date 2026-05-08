@@ -16,7 +16,7 @@
   "mainColor": "#1e00ff",
   "seo_keywords": "PINTURERÍA ON LINE, POSADAS, PINTURAS A DOMICILIO, PINTURA POSADAS, PINTURAS GARUPA, PINTURAS EN COLORES, FABRICA POSADAS, FABRICA DE PINTURAS POSADAS, MEMBRANAS PASTA, MEMBRANA LÍQUIDA, MEMBRANA GOMA, PINTURA DE PISO",
   "google_verify": "",
-  "html_head": "",
+  "html_head": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"OnlineStore\",\n  \"name\": \"Pintar Ya! - Pinturería Online Posadas\",\n  \"description\": \"Venta online de látex, membranas y pinturas en Posadas. Envíos rápidos en el día para que tu obra no se detenga.\",\n  \"url\": \"https://pintarya.sitiovip.com/\",\n  \"contactPoint\": {\n    \"@type\": \"ContactPoint\",\n    \"telephone\": \"+54-9-3764-369001\",\n    \"contactType\": \"sales\",\n    \"areaServed\": \"Posadas, Misiones\",\n    \"availableLanguage\": \"Spanish\"\n  }\n}\n</script>\n",
   "html_head_2": "",
   "html_body_open": "",
   "html_body_open_2": "",
@@ -33,8 +33,8 @@
   "rs_twitter": "",
   "rs_tiktok": "",
   "rs_linkedin": "",
-  "cta_link": "🔴OFERTAS",
-  "cta_txt": "CATÁLOGO WHATSAPP ",
+  "cta_link": "https://wa.me/c/5493764369001",
+  "cta_txt": "VER PRECIOS",
   "cat": "https://wa.me/c/5493764369001",
   "mp": "",
   "email_id": "gerardocabraltw@gmail.com",
@@ -46,9 +46,9 @@
       "tit": "PINTURA LÁTEX BLANCO ANTIHONGOS int/ext.",
       "imgs": "https://i.ibb.co/Y7g4LCPx/1778252648569.png",
       "yt": "",
-      "desc": "PINTURA LÁTEX BLANCO INT/EXT ANTIHONGO\n10L/$39MIL\n20L/$69MIL\n⚠️Consulte hacemos envios, Aceptamos MercadoPago.\n\n✅PAGAS AL RECIBIR",
+      "desc": "PINTURA LÁTEX BLANCO STANDARS. INT/EXT ANTIHONGO. (RINDE 10mtrs² por cada litro) - BUEN ACABADO MATE - PRESENTACIÓN \n4L/\n10L/\n20L/\n⚠️Consulte hacemos envios, Aceptamos MercadoPago.\n\n✅PAGAS AL RECIBIR",
       "btn_txt": "",
-      "btn_link": "CONSULTE"
+      "btn_link": ""
     },
     {
       "visible": true,
@@ -56,9 +56,9 @@
       "tit": "PINTURA LÁTEX BLANCO ANTIHONGOS INT/EXT (LAVABLE)",
       "imgs": "https://i.ibb.co/NdTgr7TY/1778192752550.png",
       "yt": "",
-      "desc": "PINTURA PREMIUM CALIDAD LAVABLE 1 MANO ANTIHONGO RENDIMIENTO 12MTRS² POR LITRO.\nCaemos envíos en el día, \n10L/$65MIL\n20L/119MIL\n⚠️CONSULTE ENVIOS.\n🔵Aceptamos MercadoPago\n\n✅PAGAS AL RECIBIR",
+      "desc": "PINTURA PREMIUM CALIDAD LAVABLE 1 MANO ANTIHONGO RENDIMIENTO 12MTRS² POR LITRO.\nHacemos envíos en el día, PRESENTACIÓN \n4L/\n10L/\n20L/\n⚠️CONSULTE ENVIOS.\n🔵Aceptamos MercadoPago\n\n✅PAGAS AL RECIBIR",
       "btn_txt": "",
-      "btn_link": "CONSULTE"
+      "btn_link": ""
     },
     {
       "visible": true,
@@ -68,7 +68,7 @@
       "yt": "",
       "desc": "Colores infinitos preparamos todos los colores rinde 10mtrs² por litro, hacemos envio en el día, 🔵aceptamos MercadoPago. Muchos colores.\n\n✅PAGAS AL RECIBIR",
       "btn_txt": "",
-      "btn_link": "CONSULTE"
+      "btn_link": ""
     },
     {
       "visible": true,
@@ -76,9 +76,9 @@
       "tit": "PINTURAS LATEX INT/EXT COLOR CALIDAD PREMIUM",
       "imgs": "https://i.ibb.co/HfBbrSQc/1778194343380.png",
       "yt": "",
-      "desc": "PINTURA LATEX PARA PARED INT/EXT COLOR CALIDAD PREMIUM RINDE 12MTRS² POR LITRO, 1 MANO MUY CUBRITIVA COLORES INTENSOS FUERTES ELEGI EL COLOR LO PREPARAMOS.\n4L $33MIL\n10L $65MIL\n20L $139MIL\n1 MANO Y QUEDA PINTADO!\n⚠️HACEMOS ENVIOS EN EL DIA.\n🔵ACEPTAMOS MERCADOPAGO \n\n✅PAGAS AL RECIBIR",
+      "desc": "PINTURA LATEX PARA PARED INT/EXT COLOR CALIDAD PREMIUM RINDE 12MTRS² POR LITRO, 1 MANO MUY CUBRITIVA COLORES INTENSOS FUERTES ELEGI EL COLOR LO PREPARAMOS.\n4L/\n10L/\n20L/\n1 MANO Y QUEDA PINTADO! - OFERTA LANZAMIENTO 🚀\nSTOCK LIMITADO - CONSULTAR\nPRECIO MAYORISTA DISPONIBLE\n\n⚠️HACEMOS ENVIOS EN EL DIA.\n🔵ACEPTAMOS MERCADOPAGO \n\n✅PAGAS AL RECIBIR",
       "btn_txt": "",
-      "btn_link": "CONSULTE"
+      "btn_link": ""
     },
     {
       "visible": true,
@@ -86,9 +86,9 @@
       "tit": "PINTURA PISO VARIOS COLORES",
       "imgs": "https://i.ibb.co/MyCZJKCM/1777564840778.png",
       "yt": "",
-      "desc": "PINTURA PISO EN COLORES ANTIHONGO/ANTIDESLIZANTE/ANTIHUMEDAD.\nEL COLOR QUE MÁS TE GUSTE.\nENTREGAS EN EL DIA, \nHACEMOS ENVIOS EN POSADAS Y AL REDEDORES. FÁCIL APLICACION, TERMINACIÓN MATE, BASE AQUA.\n4L/$40MIL - 10L/$70MIL -\n20L/$140MIL\n-Rendimiento real (trabajo terminado): Se deben aplicar al menos dos manos para asegurar resistencia, por lo que el rendimiento final es de 5 a 6 m^2 por litro.\n\n-Recomendación PRO: APLICAR Sellador/fijador.\n\n🔵ACEPTAMOS MERCADOPAGO\n\n✅PAGAS AL RECIBIR\n",
+      "desc": "PINTURA PISO EN COLORES ANTIHONGO/ANTIDESLIZANTE/ANTIHUMEDAD.\nEL COLOR QUE MÁS TE GUSTE.\nENTREGAS EN EL DIA, \nHACEMOS ENVIOS EN POSADAS Y AL REDEDORES. FÁCIL APLICACION, TERMINACIÓN MATE, BASE AQUA. - OFERTA LANZAMIENTO 🚀\nSTOCK LIMITADO - CONSULTAR\nPRECIO MAYORISTA DISPONIBLE- PRESENTACIÓN 4L/10L/20L\n-Rendimiento real (trabajo terminado): Se deben aplicar al menos dos manos para asegurar resistencia, por lo que el rendimiento final es de 5 a 6 m^2 por litro.\n\n-Recomendación PRO: APLICAR Sellador/fijador.\n\n🔵ACEPTAMOS MERCADOPAGO\n\n✅PAGAS AL RECIBIR\n",
       "btn_txt": "",
-      "btn_link": "CONSULTE"
+      "btn_link": ""
     },
     {
       "visible": true,
@@ -98,7 +98,7 @@
       "yt": "",
       "desc": "⚠️OFERTAS COMBOS MEMBRANA GOMA + PINCEL + TELA ($44MIL)/LÍQUIDA/PASTA CADA UNA PARA CADA NECESIDAD, HAY 3 COMBOS DE APLICACION FÁCIL VARIOS COLORES \n-HACEMOS ENVIOS\n-ACEPTAMOS MERCADOPAGO\n-OFERTAS HASTA AGOTAR STOCK\n\n✅PAGAS AL RECIBIR",
       "btn_txt": "",
-      "btn_link": "CONSULTE"
+      "btn_link": ""
     },
     {
       "visible": true,
@@ -106,9 +106,9 @@
       "tit": "MEMBRANAS DECORATIVAS EN COLORES ",
       "imgs": "https://i.ibb.co/35GvYJ57/1777503341918.png",
       "yt": "",
-      "desc": "MEMBRANA DECORATIVA EL COLOR QUE MAS TE GUSTE- HACEMOS EL MISMO COLOR DE TUS PAREDES NO PONGAS UN COLOR NO APTO - USA NUESTRO PRODUCTO MÁXIMA CALIDAD CON GARANTIA TECHOS DE CHAPA - TECHO LOSA - PAREDES Y MUROS\n-HACEMOS ENVIOS \n-ENTREGAMOS EN EL DÍA \n-10L/$72MIL - -20L/$138MIL\n🔵ACEPTAMOS MERCADOPAGO \n\n✅PAGAS AL RECIBIR",
+      "desc": "MEMBRANA DECORATIVA EL COLOR QUE MAS TE GUSTE- HACEMOS EL MISMO COLOR DE TUS PAREDES NO PONGAS UN COLOR NO APTO - USA NUESTRO PRODUCTO MÁXIMA CALIDAD CON GARANTIA TECHOS DE CHAPA - TECHO LOSA - PAREDES Y MUROS\n-HACEMOS ENVIOS \n-ENTREGAMOS EN EL DÍA - PRESENTACIÓN \n-10L - Y - 20L\n🔵ACEPTAMOS MERCADOPAGO \n\n✅PAGAS AL RECIBIR",
       "btn_txt": "",
-      "btn_link": "CONSULTE "
+      "btn_link": ""
     },
     {
       "visible": true,
@@ -116,9 +116,9 @@
       "tit": "MEMBRANA BLANCA ",
       "imgs": "https://i.ibb.co/57185B1/1777385946775.png",
       "yt": "",
-      "desc": "MEMBRANA BLANCA IMPERMEABILIZANTE FACIL APLICACION EN 2 MANOS IDEAL PARA PARED Y TECHOS DE CHAPA, LOSAS - MUY UTILIZADO PARA BAJAR LA TEMPERATURA 🌡️ INTERIOR REFLEJA LOS RAYOS UV - PROTEJE LA PARED DE GRIETAS EVITA HUMEDAD MANCHAS HONGOS VERDES EN PAREDES - SELLA GRIETAS FISURAS Y TAPA GOTERAS PRODUCTO DE CALIDAD MEMBRANA BLANCA EN PASTA COLOR FUERTE Y SÓLIDO DECORA Y PROTEJE.\n20L/K $96MIL - HACEMOS ENVIOS.  🔵ACEPTAMOS MERCADOPAGO\n\n✅PAGAS AL RECIBIR",
+      "desc": "MEMBRANA BLANCA IMPERMEABILIZANTE FACIL APLICACION EN 2 MANOS IDEAL PARA PARED Y TECHOS DE CHAPA, LOSAS - MUY UTILIZADO PARA BAJAR LA TEMPERATURA 🌡️ INTERIOR REFLEJA LOS RAYOS UV - PROTEJE LA PARED DE GRIETAS EVITA HUMEDAD MANCHAS HONGOS VERDES EN PAREDES - SELLA GRIETAS FISURAS Y TAPA GOTERAS PRODUCTO DE CALIDAD MEMBRANA BLANCA EN PASTA COLOR FUERTE Y SÓLIDO DECORA Y PROTEJE.\nPRESENTACIÓN 10K/L - 20L/K - HACEMOS ENVIOS.  🔵ACEPTAMOS MERCADOPAGO\n\n✅PAGAS AL RECIBIR",
       "btn_txt": "",
-      "btn_link": "CONSULTE"
+      "btn_link": ""
     },
     {
       "visible": true,
@@ -126,9 +126,9 @@
       "tit": "IMPERMEABILIZANTE PARA CASAS DE MADERA VARIOS COLORES",
       "imgs": "https://i.ibb.co/20HRHsqC/1775402150844.png",
       "yt": "",
-      "desc": "PINTURA IMPERMEABILIZANTE UNA CAPA PROTECTORA PARA CASAS DE MADERA BASE AQUA, FÁCIL APLICACIÓN -- TODOS LOS COLORES Y TONOS DISPONIBLES, SELLA Y PROTEJE DEL SOL Y LA LLUVIA A TUS PAREDES DE MADERA DE MANERA PROFESIONAL \n10L/$72MIL-/20L/$138MIL TE LLEVAMOS EN EL DÍA CONSULTA Y OEDI EL COLOR QUE MÁS TE GUSTE QUE NO TE LIMITEN.\n\n🔵 ACEPTAMOS MERCADOPAGO \n\n\n✅PAGAS AL RECIBIR",
+      "desc": "PINTURA IMPERMEABILIZANTE UNA CAPA PROTECTORA PARA CASAS DE MADERA BASE AQUA, FÁCIL APLICACIÓN -- TODOS LOS COLORES Y TONOS DISPONIBLES, SELLA Y PROTEJE DEL SOL Y LA LLUVIA A TUS PAREDES DE MADERA DE MANERA PROFESIONAL/ PRESENTACIÓN \n10L/-/20L TE LLEVAMOS EN EL DÍA CONSULTA Y OEDI EL COLOR QUE MÁS TE GUSTE QUE NO TE LIMITEN.\n\n🔵 ACEPTAMOS MERCADOPAGO \n\n\n✅PAGAS AL RECIBIR",
       "btn_txt": "",
-      "btn_link": "CONSULTA"
+      "btn_link": ""
     },
     {
       "visible": true,
@@ -138,7 +138,7 @@
       "yt": "",
       "desc": "MEMBRANA GOMA VARIOS COLORES, LA MEJOR FORMA DE PROTEGER TECHOS PAREDES ESCALERAS MUROS, UNA GENIALIDAD TOTALMENTE FUNCIONAL CALIDAD 100% - ECOLÓGICA \nCOLORES DISPONIBLES ROJO/BLANCO/NEGRO/GRIS. - - SOLUCION DEFINITIVA PARA GOTERAS FILTRACIONES Y HUMEDAD.\n\n🔵 ACEPTAMOS MERCADOPAGO\n\nHACEMOS ENVIOS\n\n✅PAGAS AL RECIBIR",
       "btn_txt": "",
-      "btn_link": "CONSULTE"
+      "btn_link": ""
     }
   ]
 }
